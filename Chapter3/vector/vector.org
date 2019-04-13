@@ -1,0 +1,21 @@
+#+TITLE: The vector in C++
+
+
+* Definition and Initialization 
+
+vector<T> v;
+
+
+I prefer to use following two initialization methods:
+
+1. vector<T> v(n, val)      : Initialize vector "v" with "n" elements of value "val";
+2. vector<T> v{a,b,c,...}   : Initialize vector "v" with the list
+
+
+* Operators
+
+1. push_back() : add value at the end
+2. empty()     : return bool whether it's empty
+3. size()      : return the size of the vector
+
+
