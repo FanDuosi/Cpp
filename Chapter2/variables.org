@@ -1,0 +1,14 @@
+There are two key definitions in compound type:
+1. Reference: &
+2. Pointer: <T> *p       &i (get address of i)
+
+
+Pointer operations:
+
+
+
+
+Tips:
+1. Initialize all pointers by nullptr(C++ 11 standard)
+2. 
+
